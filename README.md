@@ -4,4 +4,4 @@ Organnigramme des relations sociales sur [Libre Antenne](http://www.libreantenn
 
 Ce projet se veut volontairement humouristique, décalé et autodérisoire.
 
-![Carte][organigramme.png]
+![Carte](organigramme.png)
