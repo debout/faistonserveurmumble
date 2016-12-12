@@ -499,14 +499,14 @@
     <text
        xml:space="preserve"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eb5fea;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Bold"
-       x="766.97144"
-       y="532.34039"
+       x="655.85468"
+       y="582.84802"
        id="text3944"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3946"
-         x="766.97144"
-         y="532.34039">Kikoojap</tspan></text>
+         x="655.85468"
+         y="582.84802">Kikoojap</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#807c9e;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Bold"
@@ -651,47 +651,47 @@
     <text
        xml:space="preserve"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-       x="805.49817"
-       y="396.30548"
+       x="792.36621"
+       y="391.25473"
        id="text4199"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4201"
-         x="805.49817"
-         y="396.30548">♪¹</tspan></text>
+         x="792.36621"
+         y="391.25473">♪¹</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
        x="807.36316"
-       y="432.37521"
+       y="425.30414"
        id="text4203"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4205"
          x="807.36316"
-         y="432.37521">♪²</tspan></text>
+         y="425.30414">♪²</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-       x="850.58057"
-       y="411.15692"
+       x="843.50952"
+       y="402.06555"
        id="text4207"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4209"
-         x="850.58057"
-         y="411.15692">♫</tspan></text>
+         x="843.50952"
+         y="402.06555">♫</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-       x="758.87402"
-       y="423.02332"
+       x="756.8537"
+       y="408.88116"
        id="text4211"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4213"
-         x="758.87402"
-         y="423.02332">♬</tspan></text>
+         x="756.8537"
+         y="408.88116">♬</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
@@ -709,9 +709,9 @@
        id="path4219"
        sodipodi:cx="527.85712"
        sodipodi:cy="692.38104"
-       sodipodi:rx="79.285713"
-       sodipodi:ry="83.571426"
-       d="m 479.9386,625.79986 c 34.88604,-27.89519 84.62061,-20.6993 111.08528,16.07247 26.46467,36.77177 19.6378,89.1947 -15.24824,117.08989 -34.88604,27.89519 -84.62062,20.6993 -111.08528,-16.07247 -26.43197,-36.72633 -19.65877,-89.07664 15.13791,-117.00151"
+       sodipodi:rx="70.194344"
+       sodipodi:ry="69.429291"
+       d="m 485.43322,637.06687 a 70.194344,69.429291 0 1 1 -0.0977,0.0734"
        transform="translate(279.97998,-292.38065)"
        sodipodi:start="4.0634044"
        sodipodi:end="10.344842"
@@ -719,12 +719,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text4221"
-       y="319.73511"
-       x="838.53888"
+       y="327.81631"
+       x="790.05157"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e6e6e;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Bold"
        xml:space="preserve"><tspan
-         y="319.73511"
-         x="838.53888"
+         y="327.81631"
+         x="790.05157"
          id="tspan4223"
          sodipodi:role="line">Bots</tspan></text>
     <text
@@ -928,28 +928,28 @@
     <text
        xml:space="preserve"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4dad8d;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Bold"
-       x="775.34235"
-       y="665.87286"
+       x="769.28143"
+       y="662.84241"
        id="text4343"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="775.34235"
-         y="665.87286"
+         x="769.28143"
+         y="662.84241"
          id="tspan4171">Pas oubliés</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-       x="773.43835"
-       y="463.08893"
+       x="770.4079"
+       y="451.97726"
        id="text4347"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4349"
-         x="773.43835"
-         y="463.08893">Thermidor</tspan><tspan
+         x="770.4079"
+         y="451.97726">Thermidor</tspan><tspan
          sodipodi:role="line"
-         x="773.43835"
-         y="482.50598"
+         x="770.4079"
+         y="471.39432"
          id="tspan4351" /></text>
     <text
        sodipodi:linespacing="125%"
@@ -982,12 +982,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text4368"
-       y="500.44873"
-       x="756.84265"
+       y="492.36752"
+       x="755.83252"
        style="font-size:15.53363323px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bb0000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Bold"
        xml:space="preserve"><tspan
-         y="500.44873"
-         x="756.84265"
+         y="492.36752"
+         x="755.83252"
          id="tspan4370"
          sodipodi:role="line">Casi-Nazis</tspan></text>
     <text
@@ -1101,7 +1101,7 @@
        sodipodi:cy="116.89399"
        sodipodi:rx="57.07362"
        sodipodi:ry="25.75889"
-       d="m 524.62542,96.371936 a 57.07362,25.75889 0 1 1 -0.0794,0.02724"
+       d="m 524.62542,96.371936 c 25.11263,-8.598024 60.91394,-6.380063 79.96446,4.953954 19.05052,11.33402 14.13622,27.49213 -10.97641,36.09015 -25.11263,8.59803 -60.91393,6.38007 -79.96446,-4.95395 C 494.62203,121.14208 499.4977,105.00635 524.546,96.399176"
        transform="matrix(0.9995456,0,0,1.0578135,98.161463,221.85025)"
        sodipodi:start="4.0634044"
        sodipodi:end="10.344842"
@@ -1128,5 +1128,22 @@
          id="tspan4001"
          x="605.00397"
          y="356.61395">Superminou</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="640.35931"
+       y="208.12154"
+       id="text3175"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3177"
+         x="640.35931"
+         y="208.12154"
+         style="font-size:10px;font-style:italic;-inkscape-font-specification:Sans Italic">Chacun(e) peut librement modifier ou compléter</tspan><tspan
+         sodipodi:role="line"
+         x="640.35931"
+         y="220.62154"
+         id="tspan3179"
+         style="font-size:10px;font-style:italic;-inkscape-font-specification:Sans Italic">cet organigramme non exhaustif ni représentatif</tspan></text>
   </g>
 </svg>
