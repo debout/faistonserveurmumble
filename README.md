@@ -21,11 +21,11 @@ cliquer sur "Commit changes" cela remplacera les fichiers du même nom dans le d
 Là aussi, conservez vos originaux de votre côté.
 Graphistes debout et webgalleristes, n'hésitez pas à ajouter la référence de votre site web à la suite du nom de vos fichiers ci-après.
 
-# .-. Nom des fichiers        .-. [Expéditrice/Expéditeur]         .-.  Sources ou infos complémentaires
+# .-. Nom des fichiers  .-. [Expéditrice/Expéditeur]   .-.  Sources ou infos complémentaires
 
 1) 32 mars dynamitique
-32marsDynamitiqueCarre.png ; 32marsDynamitiqueBandeau.png ; 32marsDynamitiqueSourceCalques.png  
-zaguán [antislash]
+32marsDynamitiqueCarre.png .-. 32marsDynamitiqueBandeau.png .-. 32marsDynamitiqueSourceCalques.png  
+zaguán [antislash].
 Sources : Les yeux http://www.madinin-art.net/la-voie-des-nuits/ et la police de caractère https://wiki.nuitdebout.fr/wiki/Ressources/Logotype_et_caract%C3%A8re_typographique_de_la_Nuit_Debout sont de Nuit Debout, la dynamite http://3.bp.blogspot.com/-GaYzihsZ-Uc/UlKnqSTAz6I/AAAAAAABHcM/PeJu1l8wLCc/s320/DYNA.png sort d'une vieille planque de 2013 bien conservée (d'un graphiste libriste de NewsdzeZimbabwe) et la flamme de bougie provient de https://openclipart.org/detail/174363/candles
 
 2) 
