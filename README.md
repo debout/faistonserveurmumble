@@ -1,6 +1,6 @@
 # Logos Nuit Debout 32 mars
 
-Faisant écho aux voix portées sur Telegram et sur des [Pads de Nuit Debout](https://nuitdebout.fr/blog/2017/01/05/pad-des-pads-de-nuit-debout/), ce dépôt accueille des éléments visuels que chacun.e peut reprendre à sa guise.
+Faisant écho à des voix portées sur Telegram et sur des [Pads de Nuit Debout](https://nuitdebout.fr/blog/2017/01/05/pad-des-pads-de-nuit-debout/), ce dépôt accueille des éléments visuels que chacun.e peut reprendre à sa guise.
 
 ![visuels](visuels.png)
 
