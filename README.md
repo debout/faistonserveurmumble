@@ -17,4 +17,4 @@ et le mot de passe : motdepasse
 cliquer sur le bouton "upload files" pour envoyer les fichiers modifiés (en gardant leur nom original)
 cliquer sur "Commit changes" cela remplacera les fichiers du même nom dans le dépôt.
 
-Conservez votre version aussi dans votre disque local (chez vous) par simple prévention, car il n'est pas rare que les fichiers hébergés en ligne s'avèrent défectueux (inexploitables), et les personnes suivantes qui la modifieront pourraient la supprimer par erreur, l'accès est libre à tous les niveaux d'utilisation.
+Conservez votre version aussi dans votre disque local (chez vous) par simple prévention, car il n'est pas rare que les fichiers hébergés en ligne s'avèrent défectueux (inexploitables), et les personnes suivantes ici pourraient la supprimer par erreur, l'accès est libre à tous les niveaux d'utilisation.
