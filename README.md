@@ -1,4 +1,4 @@
-# Logos Nuit Debout 32 mars
+# Logos Nuit Debout 31-32 mars
 
 Faisant écho à des voix portées sur Telegram et sur des [Pads de Nuit Debout](https://nuitdebout.fr/blog/2017/01/05/pad-des-pads-de-nuit-debout/), ce dépôt accueille des éléments visuels que chacun.e peut reprendre à sa guise.
 
@@ -6,6 +6,8 @@ Faisant écho à des voix portées sur Telegram et sur des [Pads de Nuit Debout]
 
 Chacun.e peut ajouter ici d'autres éléments :
 il suffit de modifier aussi le Readme pour les référencer tout en bas dans la liste.
+
+Conservez votre version aussi dans votre disque local (chez vous) par simple prévention, car il n'est pas rare que les fichiers hébergés en ligne s'avèrent défectueux (inexploitables), et les personnes suivantes ici pourraient la supprimer par erreur, l'accès est libre à tous les niveaux d'utilisation.
 
 Si vous souhaitez ajouter aussi vos miniatures dans la vitrine des visuels,
 télécharger d'ici le fichier organigramme.svg
@@ -16,5 +18,10 @@ en s'y connectant avec le Pseudo : debout
 et le mot de passe : motdepasse
 cliquer sur le bouton "upload files" pour envoyer les fichiers modifiés (en gardant leur nom original)
 cliquer sur "Commit changes" cela remplacera les fichiers du même nom dans le dépôt.
+Là aussi, conservez vos originaux de votre côté.
+Graphistes debout et webgalleristes, n'hésitez pas à ajouter la référence de votre site web à la suite du nom de vos fichiers ci-après.
 
-Conservez votre version aussi dans votre disque local (chez vous) par simple prévention, car il n'est pas rare que les fichiers hébergés en ligne s'avèrent défectueux (inexploitables), et les personnes suivantes ici pourraient la supprimer par erreur, l'accès est libre à tous les niveaux d'utilisation.
+# .-. Nom des fichiers        .-. [Expéditrice/Expéditeur]         .-.  Infos complémentaires
+
+32marsDynamitique.png ; 32marsDynamitiqueBandeau.png ; 32marsDynamitiqueSourceCalques.png  .-. [zaguán] .-. sources : les yeux et la police de caractère sont de Nuit Debout, la dynamite sort d'une vieille planque de 2013 mais bien conservée (d'un graphiste libriste qui travaillait à l'époque pour NewsdzeZimbabwe), et la flamme de bougie provient de ![openclipart](https://openclipart.org/detail/174363/candles)
+
