@@ -4,8 +4,8 @@ Faisant écho à des voix portées sur Telegram et sur des [Pads de Nuit Debout]
 
 ![visuels](visuels.png)
 
-Chacun.e peut ajouter ici d'autres éléments :
-il suffit de modifier aussi le Readme pour les référencer tout en bas dans la liste.
+Chacun.e peut ajouter ici d'autres éléments.
+SVP cliquer sur le crayon modifier aussi le Readme.md afin de les présenter tout en bas de cette liste.
 
 Conservez votre version aussi dans votre disque local (chez vous) par simple prévention, car il n'est pas rare que les fichiers hébergés en ligne s'avèrent défectueux (inexploitables), et les personnes suivantes ici pourraient la supprimer par erreur, l'accès est libre à tous les niveaux d'utilisation.
 
