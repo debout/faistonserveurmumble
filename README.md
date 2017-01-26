@@ -12,11 +12,9 @@ Graphistes debout et webgalleristes, n'hésitez pas à ajouter la référence de
 
 Conservez votre version aussi dans votre disque local (chez vous) par simple prévention, car il n'est pas rare que les fichiers hébergés en ligne s'avèrent défectueux (inexploitables), et les personnes suivantes ici pourraient la supprimer par erreur, l'accès est libre à tous les niveaux d'utilisation.
 
-# Expéditrice/Expéditeur .-. Nom des fichiers  .-.  Sources ou infos complémentaires
+# Numéro .-. Expéditrice/Expéditeur .-. Nom des fichiers .-.  Sources ou infos
 
-I. Par zaguán "antislash" :
-
-32marsDynamitiqueCalques.zip
+I. 32 mars dynamitique, par zaguán "antislash" (items bruts dans le fichier 32marsDynamitiqueCalques.zip)
 
 ![32marsDynamitiqueCarre.png](32marsDynamitiqueCarre.png) 
 
