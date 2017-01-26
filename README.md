@@ -7,7 +7,7 @@ Faisant écho à des voix portées sur Telegram et sur des [Pads de Nuit Debout]
 Chacun.e peut ajouter ici d'autres éléments.
 SVP cliquer sur le crayon modifier aussi le Readme.md afin de les présenter tout en bas de cette liste.
 
-__ Conservez votre version aussi dans votre disque local (chez vous) par simple prévention, car il n'est pas rare que les fichiers hébergés en ligne s'avèrent défectueux (inexploitables), et les personnes suivantes ici pourraient la supprimer par erreur, l'accès est libre à tous les niveaux d'utilisation.
+Conservez votre version aussi dans votre disque local (chez vous) par simple prévention, car il n'est pas rare que les fichiers hébergés en ligne s'avèrent défectueux (inexploitables), et les personnes suivantes ici pourraient la supprimer par erreur, l'accès est libre à tous les niveaux d'utilisation.
 
 Si vous souhaitez ajouter aussi vos miniatures dans la vitrine des visuels,
 télécharger d'ici le fichier organigramme.svg
@@ -23,11 +23,13 @@ Graphistes debout et webgalleristes, n'hésitez pas à ajouter la référence de
 
 # Expéditrice/Expéditeur .-. Nom des fichiers  .-.  Sources ou infos complémentaires
 
-I. Par zaguán "antislash". Décliné en trois images : 32marsDynamitiqueCarre.png .-. 32marsDynamitiqueBandeau.png .-. 32marsDynamitiqueCalques.png
- _Sources_ : Les yeux http://www.madinin-art.net/la-voie-des-nuits/ et la police de caractère https://wiki.nuitdebout.fr/wiki/Ressources/Logotype_et_caract%C3%A8re_typographique_de_la_Nuit_Debout sont de Nuit Debout, la dynamite http://3.bp.blogspot.com/-GaYzihsZ-Uc/UlKnqSTAz6I/AAAAAAABHcM/PeJu1l8wLCc/s320/DYNA.png sort d'une vieille planque de 2013 bien conservée (d'un graphiste libriste de NewsdzeZimbabwe) et la flamme de bougie provient de https://openclipart.org/detail/174363/candles
+I. Par zaguán "antislash".
+
+Décliné en trois images : 32marsDynamitiqueCarre.png .-. 32marsDynamitiqueBandeau.png .-. 32marsDynamitiqueCalques.png
+
+Sources : Les yeux http://www.madinin-art.net/la-voie-des-nuits/ et la police de caractère https://wiki.nuitdebout.fr/wiki/Ressources/Logotype_et_caract%C3%A8re_typographique_de_la_Nuit_Debout sont de Nuit Debout, la dynamite http://3.bp.blogspot.com/-GaYzihsZ-Uc/UlKnqSTAz6I/AAAAAAABHcM/PeJu1l8wLCc/s320/DYNA.png sort d'une vieille planque de 2013 bien conservée (d'un graphiste libriste de NewsdzeZimbabwe) et la flamme de bougie provient de https://openclipart.org/detail/174363/candles
 
 II. Placez ici les vôtres :
-
 
 III. Placez ici les vôtres :
 
