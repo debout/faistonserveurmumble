@@ -2,7 +2,7 @@
 
 Faisant écho à des voix portées sur Telegram et sur des [Pads de Nuit Debout](https://nuitdebout.fr/blog/2017/01/05/pad-des-pads-de-nuit-debout/), ce dépôt accueille des éléments visuels que chacun.e peut reprendre à sa guise.
 
-Chacun.e peut ajouter ici d'autres éléments, en se connectant (bouton "Sign-in")
+Chacun.e peut soit créer son compte GitHub, soit ajouter ici d'autres éléments, en se connectant (bouton "Sign-in")
 avec le Pseudo : debout
 et le mot de passe : motdepasse
 Cliquer sur le bouton "upload files" pour envoyer les fichiers (pour les remplacer par des versions modifiées, juste garder leur nom original). Pour valider, cliquer sur "Commit changes". 
