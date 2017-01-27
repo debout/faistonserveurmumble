@@ -1,6 +1,9 @@
 # Pour créer un serveur mumble, il existe de diverses solutions :
+
 ¤ Les simples et gratuites avec des pubs de l'espionnage et l'assujetissement technique total au fournisseur
+
 ¤ L'installation chez soi dans un ordinateur et avec un modem qui risquent de subir des attaques DDOS ou autres
+
 ¤ Louer un serveur distant Debian (chez un fournisseur associatif ou professionnel qui a du répondant), mais c'est livré brut.
 
 Pour cette 3ème option, de loin la meilleure, il faudra utiliser le terminal de commandes (la petite fenêtre noire avec plein de lettres qui défilent) d'abord pour y mettre mumble en route (très facile), ensuite pour y modifier les paramètres nom et messages de mumble (un peu moins facile) et enfin pour en extraire ou y restaurer des sauvegardes du mumble (pareil).
@@ -9,3 +12,4 @@ Mais surtout, si on souhaite que des débutants puissent le gérer simplement (v
 
 Avertissement : L'anglais de l'informatique de base prend à fortiori une place prépondérante dans ces manipulations.
 
+Sa mise en page est en chantier, le guide est pour l'instant livré au format mht (pour Firefox avec l'addon UNMHT). 
