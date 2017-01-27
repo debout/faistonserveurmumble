@@ -12,4 +12,4 @@ Mais surtout, si on souhaite que des débutants puissent le gérer simplement (v
 
 Avertissement : L'anglais de l'informatique de base prend à fortiori une place prépondérante dans ces manipulations.
 
-Sa mise en page est en chantier, le guide est pour l'instant livré au format mht (pour Firefox avec l'addon UNMHT). 
+La mise en page est en chantier, le guide est pour l'instant livré au format mht (pour Firefox avec l'addon UNMHT). 
