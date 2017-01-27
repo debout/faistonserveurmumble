@@ -1,28 +1,11 @@
-# Logos Nuit Debout 31-32 mars
+# Pour créer un serveur mumble, il existe de diverses solutions :
+¤ Les simples et gratuites avec des pubs de l'espionnage et l'assujetissement technique total au fournisseur
+¤ L'installation chez soi dans un ordinateur et avec un modem qui risquent de subir des attaques DDOS ou autres
+¤ Louer un serveur distant Debian (chez un fournisseur associatif ou professionnel qui a du répondant), mais c'est livré brut.
 
-Faisant écho à des voix portées sur Telegram et sur des [Pads de Nuit Debout](https://nuitdebout.fr/blog/2017/01/05/pad-des-pads-de-nuit-debout/), ce dépôt accueille des éléments visuels que chacun.e peut reprendre à sa guise.
+Pour cette 3ème option, de loin la meilleure, il faudra utiliser le terminal de commandes (la petite fenêtre noire avec plein de lettres qui défilent) d'abord pour y mettre mumble en route (très facile), ensuite pour y modifier les paramètres nom et messages de mumble (un peu moins facile) et enfin pour en extraire ou y restaurer des sauvegardes du mumble (pareil).
 
-Chacun.e peut soit créer son compte GitHub, soit ajouter ici d'autres éléments, en se connectant (bouton "Sign-in")
-avec le Pseudo : debout
-et le mot de passe : motdepasse
-Cliquer sur le bouton "upload files" pour envoyer les fichiers (pour les remplacer par des versions modifiées, juste garder leur nom original). Pour valider, cliquer sur "Commit changes". 
-Ensuite cliquer sur le Readme.md puis sur le petit crayon (mode modifications) afin de les énumérer tout en bas de cette liste. Une fois dans le mode Modifications, vous verrez dans le numéro I la syntaxe GitHub, facile à reproduire pour qu'apparaissent leurs miniatures.
+Mais surtout, si on souhaite que des débutants puissent le gérer simplement (visuellement, sans terminal) ou y bénéficier de fonctionnalités avancées (ligne téléphonique gratuite, écoute d'audios, bornes interactives, relais micro et hauts-parleurs, écho-test...) là il faut y installer pas mal de choses et les paramétrer. Ici on se propose de rassembler les manipulations nécessaires de sorte qu'un informaticien débutant puisse y parvenir et qu'ensuite des utilisateurs très peu qualifiés puissent le visiter, le comprendre, interagir avec comme sur n'importe quel ordinateur, le faire évoluer, en extraire les fichiers de sauvegarde, gérer à la souris les banques audio et leur diffusion, ouvrir plusieurs mumbles avec différentes fonctions (micro-relais, haut-parleurs) etc.
 
-Graphistes debout et webgalleristes, n'hésitez pas à ajouter la référence de votre site web à la suite du nom de vos fichiers ci-après.
-
-Conservez votre version aussi dans votre disque local (chez vous) par simple prévention, car il n'est pas rare que les fichiers hébergés en ligne s'avèrent défectueux (inexploitables), et les personnes suivantes ici pourraient la supprimer par erreur, l'accès est libre à tous les niveaux d'utilisation.
-
-# Numéro .-. Expéditrice/Expéditeur .-. Nom des fichiers .-.  Sources ou infos
-
-I. 32 mars dynamitique, par zaguán "antislash" (items bruts dans le fichier 32marsDynamitiqueCalques.zip)
-
-![32marsDynamitiqueCarre.png](32marsDynamitiqueCarre.png) 
-
-![32marsDynamitiqueBandeau.png](32marsDynamitiqueBandeau.png)
-
-Sources : Les yeux http://www.madinin-art.net/la-voie-des-nuits/ et la police de caractère https://wiki.nuitdebout.fr/wiki/Ressources/Logotype_et_caract%C3%A8re_typographique_de_la_Nuit_Debout sont de Nuit Debout, la dynamite http://3.bp.blogspot.com/-GaYzihsZ-Uc/UlKnqSTAz6I/AAAAAAABHcM/PeJu1l8wLCc/s320/DYNA.png sort d'une vieille planque de 2013 bien conservée (d'un graphiste libriste de NewsdzeZimbabwe) et la flamme de bougie provient de https://openclipart.org/detail/174363/candles
-
-II. Présentez ici les vôtres :
-
-III. Placez ici les vôtres :
+Avertissement : L'anglais de l'informatique de base prend à fortiori une place prépondérante dans ces manipulations.
 
