@@ -2,7 +2,7 @@
 
 ¤ Les simples et gratuites avec des pubs de l'espionnage et l'assujetissement technique total au fournisseur
 
-¤ L'installation chez soi dans un ordinateur et avec un modem qui risquent de subir des attaques DDOS surtou s'il s'agit d'une plateforme ouverte liée à une activité connue du public
+¤ L'installation chez soi dans un ordinateur et avec un modem qui risquent de subir des attaques DDOS surtout s'il s'agit d'une plateforme ouverte liée à une activité connue du public
 
 ¤ Louer un serveur distant Debian (chez un fournisseur associatif ou professionnel qui a du répondant), mais c'est livré brut.
 
