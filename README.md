@@ -12,4 +12,4 @@ Mais surtout, si on souhaite que des débutants puissent le gérer simplement (v
 
 Le guide ci-joint rassemble les manipulations nécessaires de sorte qu'un informaticien un tout petit peu bidouilleur puisse y parvenir, afin qu'ensuite des utilisateurs très peu qualifiés puissent le visiter, le comprendre, interagir avec comme sur n'importe quel ordinateur, le faire évoluer, en extraire les fichiers de sauvegarde, gérer à la souris les banques audio et leur diffusion, ouvrir plusieurs mumbles avec différentes fonctions (micro-relais, haut-parleurs) etc.
 
-L'interface graphique sert aussi à se faire aider par quelqu'un qui montre / explique ce qu'il fait.
+L'interface graphique sert aussi à se faire aider par quelqu'un qui montre / explique ce qu'il accompli dans le serveur.
